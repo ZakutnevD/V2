@@ -3,8 +3,7 @@
 Интерактивное веб-приложение для просмотра текущей погоды и прогноза на 5 дней.  
 Использует **OpenWeatherMap API**, **геолокацию**, **localStorage** и динамическую смену фона.
 
-## 🚀 Демо (GitHub Pages)
-[**Запустить приложение в браузере**](https://YOUR_USERNAME.github.io/weather-app/)
+
 
 > ⚠️ Замените `YOUR_USERNAME` на имя вашего аккаунта GitHub.
 
@@ -26,4 +25,4 @@
 ## 🧪 Как запустить локально
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-app.git
+   git clone https://github.com/YOUR_USERNAME/weather-app.git](https://zakutnevd.github.io/V2/
